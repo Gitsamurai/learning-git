@@ -1,7 +1,3 @@
+package main
 
-
-B
-
-
-
-func main()
+func main() {} 
